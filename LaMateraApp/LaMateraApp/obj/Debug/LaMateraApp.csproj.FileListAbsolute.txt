@@ -1,0 +1,14 @@
+C:\Users\MARCOS\Documents\Proyecto\LaMateraApp\LaMateraApp\obj\Debug\LaMateraApp.csproj.AssemblyReference.cache
+C:\Users\MARCOS\Documents\Proyecto\LaMateraApp\LaMateraApp\obj\Debug\LaMateraApp.Properties.Resources.resources
+C:\Users\MARCOS\Documents\Proyecto\LaMateraApp\LaMateraApp\obj\Debug\LaMateraApp.Vista.FrmProductos.resources
+C:\Users\MARCOS\Documents\Proyecto\LaMateraApp\LaMateraApp\obj\Debug\LaMateraApp.csproj.GenerateResource.cache
+C:\Users\MARCOS\Documents\Proyecto\LaMateraApp\LaMateraApp\obj\Debug\LaMateraApp.csproj.CoreCompileInputs.cache
+C:\Users\MARCOS\Documents\Proyecto\LaMateraApp\LaMateraApp\bin\Debug\LaMateraApp.exe.config
+C:\Users\MARCOS\Documents\Proyecto\LaMateraApp\LaMateraApp\bin\Debug\LaMateraApp.exe
+C:\Users\MARCOS\Documents\Proyecto\LaMateraApp\LaMateraApp\bin\Debug\LaMateraApp.pdb
+C:\Users\MARCOS\Documents\Proyecto\LaMateraApp\LaMateraApp\obj\Debug\LaMateraApp.Vista.FrmPrincipal.resources
+C:\Users\MARCOS\Documents\Proyecto\LaMateraApp\LaMateraApp\obj\Debug\LaMateraApp.exe
+C:\Users\MARCOS\Documents\Proyecto\LaMateraApp\LaMateraApp\obj\Debug\LaMateraApp.pdb
+C:\Users\MARCOS\Documents\Proyecto\LaMateraApp\LaMateraApp\obj\Debug\LaMateraApp.Vista.UCProductos.resources
+C:\Users\MARCOS\Documents\Proyecto\LaMateraApp\LaMateraApp\obj\Debug\LaMateraApp.Vista.UCVentas.resources
+C:\Users\MARCOS\Documents\Proyecto\LaMateraApp\LaMateraApp\obj\Debug\LaMateraApp.Vista.UCUsuarios.resources
