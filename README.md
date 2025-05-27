@@ -14,6 +14,7 @@ Aplicación desarrollada en Visual Studio 2022 con conexión a base de datos SQL
 2. Restaurar base de datos desde `BaseDeDatos/script.sql` en SQL Server.
 3. Verificar y configurar la cadena de conexión en `App.config` o `Program.cs`.
 4. Abrir el proyecto en Visual Studio y ejecutar.
+5. Debido a un fallo al clonar repositorio, hacer clik derecho sobre LaMateraApp, quitar, luego clik derecho sobre la solucion agregar proyecto exitente, LaMateraApp.cs proj.
 
 ## Autor
 - Nombre: Marcos Godoy
